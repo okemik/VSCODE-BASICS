@@ -1,3 +1,16 @@
 body {
-    background-color: #F5F5F5;
+    background-color: #f3f3f1;
 }
+
+.page-title {background-color: rgba(100, 148, 237, 0.2);color: darkKhaki; inline-size: 150px;}
+.text {background-color: cyan;
+    color: red;
+    inline-size: 60%;}
+.section-title {font-size: x-large;
+    font-weight: 1000;
+    color: blue;}
+.list {background-color:black; inline-size: 6%; color:goldenrod;}
+.link { background-color: black; inline-size: 6%; color:rgb(255, 238, 0);}
+.footer {background-color: #e5ff00; inline-size: 150px; color: rgb(255, 0, 0); }
+
+#AradığınızHerşeyBurada {font-family: Georgia; font-size: <15>; font-style: italic; font-weight: 600; color: rgb(255, 0, 0);}
